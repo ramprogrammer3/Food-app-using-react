@@ -1,0 +1,20 @@
+
+.imageWrapper{
+    margin: 20px auto;
+    width: 33%;
+    /* border: 1px solid black; */
+    box-shadow: 1px 1px 4px grey;
+    cursor: pointer;
+    text-align: center;
+}
+
+.imageWrapper h3{
+    padding-bottom: 20px;
+    font-size: 28px;
+    letter-spacing: 1px;
+}
+
+.image{
+    width: 90%;
+    margin: 10px auto;
+}
